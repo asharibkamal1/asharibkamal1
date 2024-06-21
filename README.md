@@ -1,9 +1,14 @@
-Assalam o alikum 👋
-Hi there 👋
+**Assalam o alikum 👋**
+
+I'm Asharib kamal
+
+👨‍💻 Software Engineer | 🌐 Dot Net | 🚀 Tech Enthusiast
+
+**About Me:**
 
 Welcome to my GitHub profile! I am a Full Stack Software Engineer with 5 years of experience specializing in both desktop and web applications. My expertise spans across a wide range of tools and technologies, with a focus on the .NET ecosystem.
 
-Technologies & Tools I Use:
+**Technologies & Tools I Use:**
 
 Languages: C#
 Frameworks: .NET, .NET Core, .NET 5, 6, 7, 8, ASP.NET MVC
